@@ -1,0 +1,12 @@
+{
+    // https://code.visualstudio.com/docs/java/java-debugging
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Performance Lab",
+            "request": "launch",
+            "mainClass": "de.org.mchahn.crypto.estreamj.labs.PerformanceLab"
+        }
+    ]
+}
